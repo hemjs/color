@@ -1,6 +1,6 @@
 {
   "name": "@hemjs/color",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Print ANSI color coded output in the terminal",
   "author": "Augustus Kamau",
   "license": "MIT",
